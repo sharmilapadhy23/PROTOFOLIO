@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    color: black;
+}
+.nav-item:hover{
+    border: 2px solid white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.navbar-nav{
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    margin-left: 20px;
+}
+
+svg{
+    color: white;
+}
+
+.navbar{
+    background-color: darkblue;
+}
+.border-top{
+background-color: lightgray;
+color: #333333;
+}
+#icon-grid{
+    background-color: coral;
+}
+.footer {
+margin-bottom: 2px;
+}
+.lead{
+    margin-left: 20px;
+}
+.name{
+    margin-left: 20px;
+    font-size: bolder;
+}
+.title{
+    font-weight: 400;
+    font-size: bolder;
+}

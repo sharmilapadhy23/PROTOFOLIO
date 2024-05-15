@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+    color: black;
+}
+.nav-item:hover{
+    border: 2px solid white;
+}
+.navbar-nav{
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    margin-left: 20px;
+}
+#featured-3{
+    background-color: coral;
+}
+.list-group{
+    background-color: coral;
+}
+
+svg{
+    color: black;
+}
+
+.navbar{
+    background-color: darkblue;
+}
+.border-top{
+background-color: lightgray;
+color: #333333;
+}
+.h{
+    text-decoration: none;
+    color: white;
+}
+.footer {
+    margin-bottom: 0rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
